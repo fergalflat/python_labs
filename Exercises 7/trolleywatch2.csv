@@ -1,0 +1,161 @@
+Date,Hospital,Region,Trolley,Ward,Patients
+2019-11-25,Beaumont Hospital,Eastern,10,12,22
+2019-11-25,Children's University Hospital Temple Street,Eastern,10,0,10
+2019-11-25,Connolly Hospital Blanchardstown,Eastern,6,6,12
+2019-11-25,Mater Misericordiae University Hospital,Eastern,27,0,27
+2019-11-25,Naas General Hospital,Eastern,24,4,28
+2019-11-25,National Children's Hospital Tallaght,Eastern,0,1,1
+2019-11-25,Our Lady's Children's Hospital Crumlin,Eastern,10,0,10
+2019-11-25,St James' Hospital,Eastern,5,0,5
+2019-11-25,St Vincent's University Hospital,Eastern,27,0,27
+2019-11-25,Tallaght University Hospital,Eastern,25,11,36
+2019-11-25,Bantry General Hospital,Country,0,11,11
+2019-11-25,Cavan General Hospital,Country,1,5,6
+2019-11-25,Cork University Hospital,Country,36,16,52
+2019-11-25,Letterkenny University Hospital,Country,13,34,47
+2019-11-25,Mayo University Hospital,Country,11,12,23
+2019-11-25,Mercy University Hospital Cork,Country,18,0,18
+2019-11-25,Mid Western Regional Hospital Ennis,Country,0,4,4
+2019-11-25,Midland Regional Hospital Mullingar,Country,17,0,17
+2019-11-25,Midland Regional Hospital Portlaoise,Country,2,0,2
+2019-11-25,Midland Regional Hospital Tullamore,Country,2,0,2
+2019-11-25,Nenagh General Hospital,Country,0,2,2
+2019-11-25,Our Lady of Lourdes Hospital Drogheda,Country,11,0,11
+2019-11-25,Our Lady's Hospital Navan,Country,13,0,13
+2019-11-25,Portiuncula University Hospital,Country,14,0,14
+2019-11-25,Sligo University Hospital,Country,11,4,15
+2019-11-25,South Tipperary General Hospital,Country,15,9,24
+2019-11-25,St Lukes Hospital Kilkenny,Country,11,5,16
+2019-11-25,University College Hospital Galway,Country,22,11,33
+2019-11-25,University Hospital Kerry,Country,23,0,23
+2019-11-25,University Hospital Waterford,Country,19,7,26
+2019-11-25,University Hospital Limerick,Country,55,30,85
+2019-11-25,Wexford General Hospital,Country,6,3,9
+2019-11-26,Beaumont Hospital,Eastern,21,13,34
+2019-11-26,Children's University Hospital Temple Street,Eastern,9,0,9
+2019-11-26,Connolly Hospital Blanchardstown,Eastern,8,6,14
+2019-11-26,Mater Misericordiae University Hospital,Eastern,39,0,39
+2019-11-26,Naas General Hospital,Eastern,22,5,27
+2019-11-26,National Children's Hospital Tallaght,Eastern,0,4,4
+2019-11-26,Our Lady's Children's Hospital Crumlin,Eastern,10,8,18
+2019-11-26,St James' Hospital,Eastern,13,0,13
+2019-11-26,St Vincent's University Hospital,Eastern,27,0,27
+2019-11-26,Tallaght University Hospital,Eastern,19,13,32
+2019-11-26,Bantry General Hospital,Country,0,4,4
+2019-11-26,Cavan General Hospital,Country,1,5,6
+2019-11-26,Cork University Hospital,Country,40,20,60
+2019-11-26,Letterkenny University Hospital,Country,3,22,25
+2019-11-26,Mayo University Hospital,Country,14,4,18
+2019-11-26,Mercy University Hospital Cork,Country,12,0,12
+2019-11-26,Mid Western Regional Hospital Ennis,Country,0,0,0
+2019-11-26,Midland Regional Hospital Mullingar,Country,10,0,10
+2019-11-26,Midland Regional Hospital Portlaoise,Country,5,0,5
+2019-11-26,Midland Regional Hospital Tullamore,Country,4,0,4
+2019-11-26,Nenagh General Hospital,Country,0,5,5
+2019-11-26,Our Lady of Lourdes Hospital Drogheda,Country,13,1,14
+2019-11-26,Our Lady's Hospital Navan,Country,5,4,9
+2019-11-26,Portiuncula University Hospital,Country,7,6,13
+2019-11-26,Sligo University Hospital,Country,14,6,20
+2019-11-26,South Tipperary General Hospital,Country,15,8,23
+2019-11-26,St Lukes Hospital Kilkenny,Country,17,16,33
+2019-11-26,University College Hospital Galway,Country,21,18,39
+2019-11-26,University Hospital Kerry,Country,24,0,24
+2019-11-26,University Hospital Waterford,Country,29,8,37
+2019-11-26,University Hospital Limerick,Country,46,29,75
+2019-11-26,Wexford General Hospital,Country,7,0,7
+2019-11-27,Beaumont Hospital,Eastern,20,14,34
+2019-11-27,Children's University Hospital Temple Street,Eastern,11,0,11
+2019-11-27,Connolly Hospital Blanchardstown,Eastern,5,6,11
+2019-11-27,Mater Misericordiae University Hospital,Eastern,36,0,36
+2019-11-27,Naas General Hospital,Eastern,22,4,26
+2019-11-27,National Children's Hospital Tallaght,Eastern,2,0,2
+2019-11-27,Our Lady's Children's Hospital Crumlin,Eastern,8,7,15
+2019-11-27,St James' Hospital,Eastern,13,0,13
+2019-11-27,St Vincent's University Hospital,Eastern,19,0,19
+2019-11-27,Tallaght University Hospital,Eastern,23,16,39
+2019-11-27,Bantry General Hospital,Country,0,8,8
+2019-11-27,Cavan General Hospital,Country,6,9,15
+2019-11-27,Cork University Hospital,Country,44,15,59
+2019-11-27,Letterkenny University Hospital,Country,10,28,38
+2019-11-27,Mayo University Hospital,Country,10,9,19
+2019-11-27,Mercy University Hospital Cork,Country,23,0,23
+2019-11-27,Mid Western Regional Hospital Ennis,Country,0,3,3
+2019-11-27,Midland Regional Hospital Mullingar,Country,13,0,13
+2019-11-27,Midland Regional Hospital Portlaoise,Country,0,0,0
+2019-11-27,Midland Regional Hospital Tullamore,Country,5,0,5
+2019-11-27,Nenagh General Hospital,Country,0,6,6
+2019-11-27,Our Lady of Lourdes Hospital Drogheda,Country,7,0,7
+2019-11-27,Our Lady's Hospital Navan,Country,3,4,7
+2019-11-27,Portiuncula University Hospital,Country,4,2,6
+2019-11-27,Sligo University Hospital,Country,23,7,30
+2019-11-27,South Tipperary General Hospital,Country,18,7,25
+2019-11-27,St Lukes Hospital Kilkenny,Country,10,5,15
+2019-11-27,University College Hospital Galway,Country,32,17,49
+2019-11-27,University Hospital Kerry,Country,13,0,13
+2019-11-27,University Hospital Waterford,Country,21,8,29
+2019-11-27,University Hospital Limerick,Country,35,38,73
+2019-11-27,Wexford General Hospital,Country,5,0,5
+2019-11-28,Beaumont Hospital,Eastern,17,11,28
+2019-11-28,Children's University Hospital Temple Street,Eastern,5,0,5
+2019-11-28,Connolly Hospital Blanchardstown,Eastern,8,6,14
+2019-11-28,Letterkenny University Hospital,Eastern,5,26,31
+2019-11-28,Mater Misericordiae University Hospital,Eastern,41,0,41
+2019-11-28,Mayo University Hospital,Eastern,6,2,8
+2019-11-28,Mercy University Hospital Cork,Eastern,31,0,31
+2019-11-28,Naas General Hospital,Eastern,12,4,16
+2019-11-28,National Children's Hospital Tallaght,Eastern,0,5,5
+2019-11-28,Our Lady's Children's Hospital Crumlin,Eastern,7,0,7
+2019-11-28,St James' Hospital,Eastern,20,0,20
+2019-11-28,St Vincent's University Hospital,Eastern,11,0,11
+2019-11-28,Tallaght University Hospital,Eastern,19,12,31
+2019-11-28,Bantry General Hospital,Country,0,10,10
+2019-11-28,Cavan General Hospital,Country,3,10,13
+2019-11-28,Cork University Hospital,Country,42,12,54
+2019-11-28,Mid Western Regional Hospital Ennis,Country,0,0,0
+2019-11-28,Midland Regional Hospital Mullingar,Country,8,0,8
+2019-11-28,Midland Regional Hospital Portlaoise,Country,1,0,1
+2019-11-28,Midland Regional Hospital Tullamore,Country,4,0,4
+2019-11-28,Nenagh General Hospital,Country,7,0,7
+2019-11-28,Our Lady of Lourdes Hospital Drogheda,Country,7,0,7
+2019-11-28,Our Lady's Hospital Navan,Country,2,1,3
+2019-11-28,Portiuncula University Hospital,Country,1,0,1
+2019-11-28,Sligo University Hospital,Country,7,10,17
+2019-11-28,South Tipperary General Hospital,Country,17,8,25
+2019-11-28,St Lukes Hospital Kilkenny,Country,8,13,21
+2019-11-28,University College Hospital Galway,Country,27,12,39
+2019-11-28,University Hospital Kerry,Country,17,0,17
+2019-11-28,University Hospital Waterford,Country,24,8,32
+2019-11-28,University Hospital Limerick,Country,30,27,57
+2019-11-28,Wexford General Hospital,Country,4,0,4
+2019-11-29,Beaumont Hospital,Eastern,7,11,18
+2019-11-29,Children's University Hospital Temple Street,Eastern,4,0,4
+2019-11-29,Connolly Hospital Blanchardstown,Eastern,5,6,11
+2019-11-29,Mater Misericordiae University Hospital,Eastern,26,0,26
+2019-11-29,Naas General Hospital,Eastern,10,2,12
+2019-11-29,National Children's Hospital Tallaght,Eastern,7,0,7
+2019-11-29,Our Lady's Children's Hospital Crumlin,Eastern,16,0,16
+2019-11-29,St James' Hospital,Eastern,13,0,13
+2019-11-29,St Vincent's University Hospital,Eastern,19,0,19
+2019-11-29,Tallaght University Hospital,Eastern,14,5,19
+2019-11-29,Bantry General Hospital,Country,0,5,5
+2019-11-29,Cavan General Hospital,Country,3,3,6
+2019-11-29,Cork University Hospital,Country,39,16,55
+2019-11-29,Letterkenny University Hospital,Country,10,15,25
+2019-11-29,Mayo University Hospital,Country,7,12,19
+2019-11-29,Mercy University Hospital Cork,Country,18,0,18
+2019-11-29,Mid Western Regional Hospital Ennis,Country,0,0,0
+2019-11-29,Midland Regional Hospital Mullingar,Country,3,0,3
+2019-11-29,Midland Regional Hospital Portlaoise,Country,3,0,3
+2019-11-29,Midland Regional Hospital Tullamore,Country,11,0,11
+2019-11-29,Nenagh General Hospital,Country,0,2,2
+2019-11-29,Our Lady of Lourdes Hospital Drogheda,Country,7,0,7
+2019-11-29,Our Lady's Hospital Navan,Country,3,0,3
+2019-11-29,Portiuncula University Hospital,Country,1,0,1
+2019-11-29,Sligo University Hospital,Country,16,7,23
+2019-11-29,South Tipperary General Hospital,Country,21,11,32
+2019-11-29,St Lukes Hospital Kilkenny,Country,8,12,20
+2019-11-29,University College Hospital Galway,Country,31,10,41
+2019-11-29,University Hospital Kerry,Country,10,0,10
+2019-11-29,University Hospital Waterford,Country,19,7,26
+2019-11-29,University Hospital Limerick,Country,31,33,64
+2019-11-29,Wexford General Hospital,Country,3,0,3

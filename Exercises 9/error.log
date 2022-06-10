@@ -1,0 +1,28 @@
+[Fri Feb 01 22:03:08.318615 2019] [authz_core:debug] [pid 9:tid 140597881775872] mod_authz_core.c(820): [client 172.17.0.1:50752] AH01626: authorization result of Require all granted: granted
+[Fri Feb 01 22:03:08.319124 2019] [authz_core:debug] [pid 9:tid 140597881775872] mod_authz_core.c(820): [client 172.17.0.1:50752] AH01626: authorization result of <RequireAny>: granted
+[Fri Feb 01 22:03:08.319709 2019] [authz_core:debug] [pid 7:tid 140597881775872] mod_authz_core.c(820): [client 172.17.0.1:50750] AH01626: authorization result of Require all granted: granted
+[Fri Feb 01 22:03:08.320285 2019] [authz_core:debug] [pid 7:tid 140597881775872] mod_authz_core.c(820): [client 172.17.0.1:50750] AH01626: authorization result of <RequireAny>: granted
+[Fri Feb 01 22:03:08.320970 2019] [core:info] [pid 7:tid 140597881775872] [client 172.17.0.1:50750] AH00128: File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Fri Feb 01 22:03:08.960056 2019] [authz_core:debug] [pid 7:tid 140597873383168] mod_authz_core.c(820): [client 172.17.0.1:50750] AH01626: authorization result of Require all granted: granted
+[Fri Feb 01 22:03:08.960641 2019] [authz_core:debug] [pid 7:tid 140597873383168] mod_authz_core.c(820): [client 172.17.0.1:50750] AH01626: authorization result of <RequireAny>: granted
+[Fri Feb 01 22:03:08.961235 2019] [core:info] [pid 7:tid 140597873383168] [client 172.17.0.1:50750] AH00128: File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Fri Feb 01 22:03:09.025752 2019] [authz_core:debug] [pid 7:tid 140597864990464] mod_authz_core.c(820): [client 172.17.0.1:50750] AH01626: authorization result of Require all granted: granted
+[Fri Feb 01 22:03:09.026205 2019] [authz_core:debug] [pid 7:tid 140597864990464] mod_authz_core.c(820): [client 172.17.0.1:50750] AH01626: authorization result of <RequireAny>: granted
+[Fri Feb 01 22:03:09.026647 2019] [core:info] [pid 7:tid 140597864990464] [client 172.17.0.1:50750] AH00128: File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Fri Feb 01 22:03:13.885995 2019] [authz_core:debug] [pid 7:tid 140597856597760] mod_authz_core.c(820): [client 172.17.0.1:50750] AH01626: authorization result of Require all granted: granted
+[Fri Feb 01 22:07:57.154391 2019] [core:info] [pid 10:tid 140284200093440] [client 172.17.0.1:50756] AH00128: File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Fri Feb 01 22:07:57.808291 2019] [core:info] [pid 8:tid 140284216878848] [client 172.17.0.1:50758] AH00128: File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Fri Feb 01 22:07:57.878149 2019] [core:info] [pid 8:tid 140284208486144] [client 172.17.0.1:50758] AH00128: File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Fri Feb 01 22:44:09 2019] First time: [pid 9] [client 172.17.0.1:50770]
+[Fri Feb 01 22:44:09 2019] [info] [pid 9] core.c(4739): [client 172.17.0.1:50770] AH00128: File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Sat Feb 02 00:30:55 2019] New connection: [connection: j8BjX4Z5tjk] [client 172.17.0.1:50784]
+[Sat Feb 02 00:30:55 2019] New request: [connection: j8BjX4Z5tjk] [request: p7pjX4Z5tjk] [pid 8] [client 172.17.0.1:50784]
+[Sat Feb 02 00:30:55 2019] [info] [C: j8BjX4Z5tjk] [R: p7pjX4Z5tjk] [pid 8] core.c(4739): [client 172.17.0.1:50784] AH00128: File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Sat Feb 02 00:30:55 2019] New request: [connection: j8BjX4Z5tjk] [request: ACtkX1Z5tjk] [pid 8] [client 172.17.0.1:50784]
+[Sat Feb 02 00:30:55 2019] [info] [C: j8BjX4Z5tjk] [R: ACtkX1Z5tjk] [pid 8] core.c(4739): [client 172.17.0.1:50784] AH00128: File does not exist: /usr/local/apache2/htdocs/foo.gif
+[Sat Feb 02 00:30:55 2019] New connection: [connection: gTxkX8Z6tjk] [client 172.17.0.1:50786]
+[Sat Feb 02 00:30:55 2019] New request: [connection: gTxkX8Z6tjk] [request: 5TVkX8Z6tjk] [pid 8] [client 172.17.0.1:50786]
+[Sat Feb 02 00:30:55 2019] [info] [C: gTxkX8Z6tjk] [R: 5TVkX8Z6tjk] [pid 8] core.c(4739): [client 172.17.0.1:50786] AH00128: File does not exist: /usr/local/apache2/htdocs/bar.gif
+[Sat Feb 02 00:30:55 2019] New request: [connection: gTxkX8Z6tjk] [request: wvRoX3Z6tjk] [pid 8] [client 172.17.0.1:50786]
+[Sat Feb 02 00:30:55 2019] [info] [C: gTxkX8Z6tjk] [R: wvRoX3Z6tjk] [pid 8] core.c(4739): [client 172.17.0.1:50786] AH00128: File does not exist: /usr/local/apache2/htdocs/foobar.gif
+[Sat Feb 02 00:30:55 2019] New request: [connection: gTxkX8Z6tjk] [request: i/JtX9Z7tjk] [pid 8] [client 172.17.0.1:50786]
